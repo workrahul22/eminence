@@ -29,5 +29,5 @@ $ npm run start:prod
 
 ### After this the server will start listening to port 3001
 
-### Open the below mentioned URL  to get all the apis based on OpenCv spcification
+### Open the below mentioned URL  to get all the API's in swagger dashboard
 http://localhost:3001/api
